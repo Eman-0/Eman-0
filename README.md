@@ -2,7 +2,7 @@
 
 <div>
 Tech Stack:
-<a <img align="center" src="./images/react.svg" height="20" /></a>
+<a <img align="center" src="./images/react.pdf" height="20" /></a>
 
 - 🔭 I’m an aspiring Full Stack Dev looking for his first job.
 - 🌱 I’m currently learning NextJs.
