@@ -1,7 +1,7 @@
 ### Hi people of the internet, I am Eman 👋
 
 <div>
-  <h2>Tech Stack: </h2>
+  <h3>Tech Stack: </h3>
   <img align="center" src="./images/javascript.svg" height="30px"/>
   <img align="center" src="./images/react.svg" height="30px"/>
   <img align="center" src="./images/nextdotjs.svg" height="30px"/>
